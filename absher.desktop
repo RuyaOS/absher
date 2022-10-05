@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Absher
+Name[ar]=أبشر
+GenericName=Absher
+GenericName[ar]=أبشر
+Comment=Absher Platform
+Comment[ar]=منصة أبشر
+Terminal=false
+Exec=absher
+Icon=absher
+Categories=Network;
+StartupNotify=false

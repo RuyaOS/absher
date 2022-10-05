@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <id type="desktop">absher.desktop</id>
+  <licence>GPL3</licence>
+  <summary>Absher Platform</summary>
+  <summary xml:lang="ar">منصة أبشر</summary>
+  <description>
+    <p>Absher Platform.</p>
+    <p xml:lang="ar">منصة أبشر.</p>
+  </description>
+  <url type="homepage">https://absher.sa</url>
+  <screenshots>
+    <screenshot type="default">https://ruya.parmg.sa/screenshots/absher.png</screenshot>
+  </screenshots>
+  <updatecontact>info[AT]parmg[DOT]sa</updatecontact>
+  <project_group>Network</project_group>
+</application>
