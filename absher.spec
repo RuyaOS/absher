@@ -1,7 +1,7 @@
 %global pname absher
 %global purl https://absher.sa
 %global pver 0.1
-%global prel 1
+%global prel 2
 %global pasum منصة أبشر
 %global pesum Absher Platform
 %global plic GPLv3
@@ -58,5 +58,8 @@ install -Dp -m 0644 %{name}.png %{buildroot}%{_datadir}/pixmaps
 
 
 %changelog
+* Fri Oct 7 2022 Mosaab Alzoubi <mosaab[AT]parmg[DOT]sa> - 0.1-2
+- Enhance the comment
+
 * Wed Oct 5 2022 Mosaab Alzoubi <mosaab[AT]parmg[DOT]sa> - 0.1-1
 - Initial
